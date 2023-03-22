@@ -3,7 +3,7 @@
 /*
  * main - Prints the first 100 Fibonacci numbers.
  * starting with 1 and 2.
- * Return: Nothing!
+ * Return: (0) Success
  */
 
 int main(void)
