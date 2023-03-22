@@ -5,8 +5,7 @@
  * separated by a comma followed by a space.
  * Return: Nothing!
  */
-
-int main(void);
+int main(void)
 
 {
 	int i = 0;
