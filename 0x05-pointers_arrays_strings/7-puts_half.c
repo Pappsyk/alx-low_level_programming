@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * puts_half - Prints half of a string
- * @s: The string to pring
+ * @str: The string to pring
  * Return: void
  */
 void puts_half(char *str)
@@ -28,4 +28,3 @@ void puts_half(char *str)
 		_putchar(str[k]);
 	}
 	_putchar('\n');
-}
