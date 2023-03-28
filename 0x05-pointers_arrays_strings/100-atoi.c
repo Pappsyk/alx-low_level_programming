@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _atoi - a function that converts a string to an integer
+ * _atoi - Converts a string to an integer.
  * @s: The pointer to convert
  * Return: A integer
  */
@@ -29,6 +29,6 @@ int _atoi(char *s)
 	}
 	c++;
 	}
-	ni += min;
+	ni *= min;
 	return (ni);
 }
